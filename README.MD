@@ -103,7 +103,7 @@ You can host this API on any platform supporting Node.js:
 After deployment, your API will be accessible at:
 
 ```
-
+https://vit-fullstack.onrender.com/
 ```
 
 ---
